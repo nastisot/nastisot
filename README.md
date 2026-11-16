@@ -16,9 +16,9 @@
 
 ### ✨ About Me
 
-- Go backend developer focused on **reliable services**
-- Interested in **concurrency, database consistency, and event-driven architecture**
-- Building educational backend projects to deepen practical engineering skills
+- Building backend services with a focus on reliability and maintainability
+- Exploring concurrency, database consistency, and event-driven architectures
+- Working on Go projects that tackle real backend engineering challenges
 
 ### 🛠 Tech Stack
 
