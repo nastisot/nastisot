@@ -24,4 +24,3 @@ REST API with JWT authentication, MySQL, Redis, and Docker Compose.
 
 ---
 
-*Interested in backend engineering, concurrency, and reliable distributed systems.*
